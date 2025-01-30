@@ -53,7 +53,11 @@
 
 .portfolio-imgs {
     background: #f1f1f1;
+<<<<<<< HEAD
     /* background-image: url('https:///assets/images/ZonexDev_office.jpg'); */
+=======
+    /* background-image: url('https://www.Zonex.com/assets/images/ZonexDev_office.jpg'); */
+>>>>>>> 577f13bd2b241673d110d9686356b94a512300e8
     background-image: url('../img/portfolio/officepic-min.jpg');
     background-repeat: no-repeat;
     background-size: cover;
